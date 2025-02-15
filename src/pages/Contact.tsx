@@ -28,6 +28,7 @@ const contacts = [
   },
   {
     icon: <Mail className="h-8 w-8" />,
+    
     label: "Email",
     value: "simran@gmail.com",
     link: "mailto:simran@gmail.com",
